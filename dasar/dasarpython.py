@@ -22,12 +22,12 @@ GLOBAL_CONSTANT_NAME
 # blok percabangan if
 username ='universitasmulia'
 if username == 'universitasmulia':
-print("Selamat Datang ")
-print("Mari Belajar Python")
+    print("Selamat Datang ")
+    print("Mari Belajar Python")
 
 # blok percabangan for
 for i in range(10):
-print (i)
+    print (i)
 
 
 ''' Saya Sedang Belajar Python '''
